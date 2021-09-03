@@ -32,13 +32,13 @@ I'm Dipesh Shrestha, focus on becoming a machine learning and AI. I solve proble
 
 ## **Pinned Card** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=ModelSelection&show_owner=true&theme=radical)](https://github.com/callmemaze/ModelSelection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callmemaze&repo=ModelSelection&show_owner=true&theme=radical)](https://github.com/callmemaze/ModelSelection)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Stock_Price_Prediction&show_owner=true&theme=radical)](https://github.com/callmemaze/Stock_Price_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callmemaze&repo=Stock_Price_Prediction&show_owner=true&theme=radical)](https://github.com/callmemaze/Stock_Price_Prediction)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=Facebook_Clone&show_owner=true&theme=radical)](https://github.com/callmemaze/Facebook_Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callmemaze&repo=Facebook_Clone&show_owner=true&theme=radical)](https://github.com/callmemaze/Facebook_Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maze-lol&repo=memories&show_owner=true&theme=radical)](https://github.com/callmemaze/memories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callmemaze&repo=memories&show_owner=true&theme=radical)](https://github.com/callmemaze/memories)
 
 
 
